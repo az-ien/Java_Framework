@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <dev>
+    <username>null</username>
+    <password>null</password>
+    <url>https://dev.www.infopave.com</url>
+  </dev>
+  <staging>
+    <username>null</username>
+    <password>null</password>
+    <url>null</url>
+    
+  </staging>
+  <production>
+    <username>null</username>
+    <password>null</password>
+    <url>https://infopave.fhwa.dot.gov/</url>
+  </production>
+</users> 

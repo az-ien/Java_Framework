@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Practice">
+    <test name="Broken">
+        <parameter name="Environment" value="dev"/>
+        <parameter name="Browser" value="Chrome"/>
+        <parameter name="Project" value="common"/>
+        <classes>
+            <class name="com.iengineering.common.BrokenLinks"/>
+
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->

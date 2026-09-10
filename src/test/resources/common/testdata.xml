@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <dev>
+    <username>null</username>
+    <password>null</password>
+    <url>https://infobridge.fhwa.dot.gov/</url>
+  </dev>
+  <staging>
+    <username>null</username>
+    <password>null</password>
+    <url>null</url>
+    
+  </staging>
+  <production>
+    <username>null</username>
+    <password>null</password>
+    <url>null</url>
+  </production>
+</users> 

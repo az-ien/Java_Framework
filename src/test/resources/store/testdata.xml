@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <dev>
+    <username>null</username>
+    <password>null</password>
+    <url>null</url>
+  </dev>
+  <staging>
+    <username>talha.akhtar@iengineering.com</username>
+    <password>talha.akhtar</password>
+    <url>https://staging.store.transportation.org</url>
+    
+  </staging>
+  <production>
+    <username>null</username>
+    <password>null</password>
+    <url>null</url>
+  </production>
+</users> 
